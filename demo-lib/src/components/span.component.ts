@@ -1,4 +1,4 @@
-import { PolymorphicComponent } from '../util/polymorphic-component.interface';
+import { PolymorphicComponent } from '../util';
 import { forwardRef } from '@angular/core';
 import { Component } from '@angular/core';
 
